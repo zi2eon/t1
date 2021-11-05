@@ -8,4 +8,4 @@
 </script>
 </body>
 </html>
-실시간 올라가는건가?
+실시간 올라dhdld?
